@@ -9,4 +9,8 @@ of the software at a time and making sure one piece of code worked correctly bef
 How do I approach developing programs?
 
 I dont't think I would say I used any new strategies when working on this project. Iteration was very important through the entire process of this project.
-Starting with understanding the basics of shapes in OpenGL then moving on to combining shapes to create more complex objects, then adding color and textures to the objects to make them look real, and finally using proper lighting to further enhance the realism on the objects in the scene was a process that had to be done in steps in order to be able to make the scene cohesive. 
+Starting with understanding the basics of shapes in OpenGL then moving on to combining shapes to create more complex objects, then adding color and textures to the objects to make them look real, and finally using proper lighting to further enhance the realism on the objects in the scene was a process that had to be done in steps in order to be able to make the scene cohesive.
+
+How can computer science help me in reaching my goals?
+
+Computer Science can help me reach my goals by training new skills as well as reenforcing older skills like problem solving, adaptability, analytical thinking, group collaboration, and creativity. These skills are very important towards being successful and pursing a career in different computer science fields.
